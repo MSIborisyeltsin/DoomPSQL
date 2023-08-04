@@ -1,2 +1,2 @@
-# DoomPSQL
-Doom game on PostgreSQL
+# Doom-PostgreSQL
+Special for Ajax Violet IV
